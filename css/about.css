@@ -1,0 +1,64 @@
+.jumbotron {
+  font-size: 10px;
+}
+body {
+  background-image: url(../css/gold.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 5px
+  color: black;
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+  font-size: 10px;
+  color: black;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: skyblue;
+}
+
+li {
+float: left;
+}
+
+li a {
+  display: block;
+  color: black:
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#edu {
+  font-style: italic;
+  font-size: 20px;
+  background-color: skyblue;
+}
+#hobbies {
+  font-style: italic;
+  font-size: 20px;
+  background-color: pink;
+  height: 200px;
+  float: right;
+}
+#webs {
+  font-size: 20px;
+  background-color: lightgrey;
+  height: 200px;
+  float: right;
+  width:50%;
+  height:50%;
+  color: blue;
+}
