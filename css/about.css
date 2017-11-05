@@ -1,8 +1,14 @@
-.jumbotron {
-  font-size: 10px;
+#me {
+font-size: 10px;
+width:30%;
+height:30%;
+background-color: skyblue;
+text-align: center;
+margin-left: 40%;
+margin-bottom: 5%;
 }
 body {
-  background-image: url(../css/gold.jpg);
+background-image: url(../css/gold.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 
@@ -45,6 +51,8 @@ li a {
   font-style: italic;
   font-size: 20px;
   background-color: skyblue;
+  margin-left: -5%;
+  margin-right: 5%;
 }
 #hobbies {
   font-style: italic;
@@ -58,6 +66,7 @@ li a {
   background-color: lightgrey;
   height: 200px;
   float: right;
+  margin-top: -20%;
   width:50%;
   height:50%;
   color: blue;
