@@ -1,6 +1,6 @@
 # My Portfolio
 
-####This website is designed to give information about me and my progress at Moringa School
+This website is designed to give information about me and my progress at Moringa School
 
 #### Mariam Omar
 
