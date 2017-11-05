@@ -1,7 +1,7 @@
 
 .jumbotron {
 font-style: italic;
-background-image: url(../css/mo.jpg);
+background-image: url(../imgs/mo.jpg);
 text-color: white;
 background-repeat: no-repeat;
 background-size: cover;
@@ -13,7 +13,7 @@ margin-bottom: 10;
   color: skyblue;
 }
 body {
-  background-image: url(../css/images.jpg);
+  background-image: url(../imgs/images.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Pacifico';
