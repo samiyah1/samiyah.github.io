@@ -1,12 +1,12 @@
-.sidebar {
-  width:25%;
-}
+
 .jumbotron {
 font-style: italic;
 background-image: url(../css/mo.jpg);
 text-color: white;
 background-repeat: no-repeat;
 background-size: cover;
+margin-top: -5%;
+margin-bottom: 10;
 }
 .container {
   text-align: center;
@@ -50,4 +50,13 @@ h.1{
 
 p.1 {
   color: skyblue;
+}
+#port {
+  float:left;
+  margin-left: -15%;
+}
+#dream {
+  float: right;
+  margin-left: 15%;
+  margin-top: 20%;
 }
